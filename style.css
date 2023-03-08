@@ -1,0 +1,7 @@
+body {
+  font: 2em sans-serif;
+}
+
+ul {
+  list-style-image: linear-gradient(#99f, #666);
+}
